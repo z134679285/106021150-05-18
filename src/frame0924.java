@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 public class frame0924 extends JFrame {
     private String string = "";
-    private String s1="25355277";
+    private String s1="23323456";
     private Container cp;
     private JPasswordField tf = new JPasswordField("");
 //    private TextField tf = new TextField("");
