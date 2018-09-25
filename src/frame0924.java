@@ -9,8 +9,8 @@ public class frame0924 extends JFrame {
     private String string = "";
     private String s1="25355277";
     private Container cp;
-//    private JPasswordField tf = new JPasswordField("");
-    private TextField tf = new TextField("");
+    private JPasswordField tf = new JPasswordField("");
+//    private TextField tf = new TextField("");
     private JButton b1 = new JButton("0");
     private JButton b2 = new JButton("1");
     private JButton b3 = new JButton("2");
